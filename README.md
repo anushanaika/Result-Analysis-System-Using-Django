@@ -1,1 +1,1 @@
-# Result-Analysis-System-Using-Django
+# Result-Analysis-System
